@@ -1,0 +1,26 @@
+{
+  "name": "twitter_tg_bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot for Getting Latest Tweets from Particular Profile or Series of Profiles",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tks18/twitter-tg-bot.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Telegram",
+    "Bot",
+    "Latest",
+    "Tweets"
+  ],
+  "author": "Sudharshan TK",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/tks18/twitter-tg-bot/issues"
+  },
+  "homepage": "https://github.com/tks18/twitter-tg-bot#readme"
+}
